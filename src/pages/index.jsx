@@ -34,14 +34,6 @@ function HomepageHeader() {
               Invite Elaina
               </Link>
           </div>      
-  
-              <Link className="button button--secondary button--lg" to="https://discord.com/api/oauth2/authorize?client_id=875563372974850059&permissions=3533120&scope=bot%20applications.commands">
-              Invite Elaina
-              </Link>
-
-              <Link className="button button--secondary button--lg" to="https://discord.com/api/oauth2/authorize?client_id=937175048484192267&permissions=274914998592&scope=bot%20applications.commands">
-              Invite Elaina 2.0
-              </Link>
           </div>
     </header>
   );
